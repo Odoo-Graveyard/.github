@@ -4,7 +4,7 @@ Odoo - Graveyard where codes go to die.
 <br>
 This organization is dedicated to archiving old Odoo modules that are no longer maintained or supported.
 <p align="center">
-  <img src="../ClanChat_Emoji_Dummy04.png" alt="Odoo-Graveyard Image" />
+  <img src="/../ClanChat_Emoji_Dummy04.png" alt="Odoo-Graveyard Image" />
 </p>
 
 ## Contributing
